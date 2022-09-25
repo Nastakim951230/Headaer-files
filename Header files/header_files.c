@@ -22,6 +22,7 @@ int main()
 	}
 	case 2:
 	{
+
 		system("cls");
 		printf("Разность\n");
 		int a, b;
